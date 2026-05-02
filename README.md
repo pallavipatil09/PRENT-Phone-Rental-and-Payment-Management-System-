@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
 ![Project](https://img.shields.io/badge/Project-End--to--End-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ---
 
@@ -209,5 +209,16 @@ The ER diagram represents all relationships between entities.
 
 ---
 
-## 📬 Connect With Me
-- LinkedIn : www.linkedin.com/in/patilpallavianil
+## 👩‍💻 Author  
+**Pallavi Patil**  
+Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
+
+---
+
+## 📬 Connect With Me  
+- LinkedIn: www.linkedin.com/in/patilpallavianil
+
+---
+
+## ⭐ If you like this project  
+Give it a ⭐ and share your feedback!
