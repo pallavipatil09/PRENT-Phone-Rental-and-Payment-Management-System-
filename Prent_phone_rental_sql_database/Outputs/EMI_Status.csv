@@ -1,0 +1,11 @@
+emi_id,rent_id,due_date,amount,status,paid_date
+1,1,2024-02-01,2200.00,pending,NULL
+3,3,2024-02-10,2500.00,pending,NULL
+2,2,2024-03-01,2200.00,pending,NULL
+4,4,2024-03-01,2300.00,pending,NULL
+5,5,2024-03-15,3000.00,pending,NULL
+6,6,2024-04-01,2000.00,pending,NULL
+7,7,2024-04-10,2100.00,pending,NULL
+8,8,2024-05-01,2000.00,pending,NULL
+9,9,2024-05-10,2400.00,pending,NULL
+10,10,2024-06-01,1800.00,pending,NULL

@@ -1,0 +1,11 @@
+user_id,full_name,email,phone,user_status,rent_id,rent_status,outstanding_due,brand,model_name,storage,color,plan_name,tenure_months,monthly_rent
+1,"Sanika Patil",sanika@gmail.com,9045675498,active,1,active,26400.00,Apple,"iPhone 17",256GB,Black,"Standard 12 Months",12,2200.00
+2,"Tanvi Patil",tanvi@gmail.com,9345298652,active,2,active,15000.00,Apple,"iPhone 17 Pro",512GB,"Deep Blue","Basic 6 Months",6,2500.00
+3,"Sakshi Patil",sakshi@gmail.com,9296349123,active,3,active,20700.00,Apple,"iPhone 17 Pro Max",1TB,Silver,"Standard 9 Months",9,2300.00
+4,"Anjali Sankpal",anjali@gmail.com,9560936272,active,4,active,9000.00,Samsung,"Galaxy Z Fold 7",512GB,"Cosmic Black","Basic 3 Months",3,3000.00
+5,"Rachana Thombare",rachana@gmail.com,8014274859,active,5,active,36000.00,Samsung,"Galaxy Z Flip 7",256GB,"Coral Red","Premium 18 Months",18,2000.00
+6,"Riddhi Waghe",riddhi@gmail.com,5467390134,active,6,active,31500.00,Samsung,"Galaxy A26 5G",128GB,Mint,"Premium 15 Months",15,2100.00
+7,"Mitali Sawant",mitali@gmail.com,9298674329,active,7,active,12000.00,OnePlus,"OnePlus 15",256GB,Black,"Student Plan",6,2000.00
+8,"Monika Rajpurohit",monika@gmail.com,7650923457,active,8,active,28800.00,OnePlus,"OnePlus 15R",512GB,Grey,"Family Plan",12,2400.00
+9,"Isha Solanki",isha@gmail.com,9039495967,active,9,active,43200.00,Xiaomi,"Xiaomi 17 Ultra",512GB,White,"Corporate Plan",24,1800.00
+10,"Vibha Dhole",vibha@gmail.com,9209796310,active,10,active,11400.00,Oppo,"Oppo Find X9 Pro",512GB,Blue,"Festive Plan",6,1900.00

@@ -1,0 +1,11 @@
+payment_id,full_name,amount,payment_method,status,created_at
+1,"Sanika Patil",2200.00,upi,successful,"2025-12-21 23:59:49"
+2,"Tanvi Patil",2200.00,gpay,successful,"2025-12-21 23:59:49"
+3,"Sakshi Patil",2500.00,phonepe,successful,"2025-12-21 23:59:49"
+4,"Anjali Sankpal",2300.00,upi,successful,"2025-12-21 23:59:49"
+5,"Rachana Thombare",3000.00,debit_card,successful,"2025-12-21 23:59:49"
+6,"Riddhi Waghe",2000.00,credit_card,successful,"2025-12-21 23:59:49"
+7,"Mitali Sawant",2100.00,upi,successful,"2025-12-21 23:59:49"
+8,"Monika Rajpurohit",2000.00,paytm,successful,"2025-12-21 23:59:49"
+9,"Isha Solanki",2400.00,upi,successful,"2025-12-21 23:59:49"
+10,"Vibha Dhole",1800.00,net_banking,successful,"2025-12-21 23:59:49"
